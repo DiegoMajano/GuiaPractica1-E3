@@ -12,3 +12,7 @@ Consideraciones:
  El menú debe permanecer disponible hasta que el usuario elija la opción d.
  Utilizar una función o procedimiento para cada opción.
  Para la opción d, utilice la fórmula: IMC = Peso[Kg] / Altura2 [Metros].
+
+Desarrollado por:
+Rodríguez Majano, Diego José
+RM220481
